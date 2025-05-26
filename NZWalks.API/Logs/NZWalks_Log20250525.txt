@@ -1,0 +1,73 @@
+2025-05-25 23:32:58.894 +05:30 [INF] Executed DbCommand (46ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT "MigrationId", "ProductVersion"
+FROM "__EFMigrationsHistory"
+ORDER BY "MigrationId";
+2025-05-25 23:33:00.221 +05:30 [INF] Executed DbCommand (20ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE IF NOT EXISTS "__EFMigrationsHistory" (
+    "MigrationId" character varying(150) NOT NULL,
+    "ProductVersion" character varying(32) NOT NULL,
+    CONSTRAINT "PK___EFMigrationsHistory" PRIMARY KEY ("MigrationId")
+);
+2025-05-25 23:33:00.251 +05:30 [INF] Acquiring an exclusive lock for migration application. See https://aka.ms/efcore-docs-migrations-lock for more information if this takes too long.
+2025-05-25 23:33:00.263 +05:30 [INF] Executed DbCommand (8ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+LOCK TABLE "__EFMigrationsHistory" IN ACCESS EXCLUSIVE MODE
+2025-05-25 23:33:00.268 +05:30 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT "MigrationId", "ProductVersion"
+FROM "__EFMigrationsHistory"
+ORDER BY "MigrationId";
+2025-05-25 23:33:00.280 +05:30 [INF] No migrations were applied. The database is already up to date.
+2025-05-25 23:33:01.025 +05:30 [INF] Executed DbCommand (5ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT "MigrationId", "ProductVersion"
+FROM "__EFMigrationsHistory"
+ORDER BY "MigrationId";
+2025-05-25 23:33:01.321 +05:30 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE IF NOT EXISTS "__EFMigrationsHistory" (
+    "MigrationId" character varying(150) NOT NULL,
+    "ProductVersion" character varying(32) NOT NULL,
+    CONSTRAINT "PK___EFMigrationsHistory" PRIMARY KEY ("MigrationId")
+);
+2025-05-25 23:33:01.324 +05:30 [INF] Acquiring an exclusive lock for migration application. See https://aka.ms/efcore-docs-migrations-lock for more information if this takes too long.
+2025-05-25 23:33:01.327 +05:30 [INF] Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+LOCK TABLE "__EFMigrationsHistory" IN ACCESS EXCLUSIVE MODE
+2025-05-25 23:33:01.337 +05:30 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT "MigrationId", "ProductVersion"
+FROM "__EFMigrationsHistory"
+ORDER BY "MigrationId";
+2025-05-25 23:33:01.339 +05:30 [INF] No migrations were applied. The database is already up to date.
+2025-05-25 23:33:01.713 +05:30 [INF] User profile is available. Using 'C:\Users\jawda\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-05-25 23:33:02.307 +05:30 [INF] Now listening on: https://localhost:7127
+2025-05-25 23:33:02.317 +05:30 [INF] Now listening on: http://localhost:5069
+2025-05-25 23:33:02.610 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2025-05-25 23:33:02.652 +05:30 [INF] Hosting environment: Development
+2025-05-25 23:33:02.653 +05:30 [INF] Content root path: C:\Users\jawda\source\repos\NZWalks\NZWalks.API
+2025-05-25 23:33:04.066 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7127/swagger/index.html - null null
+2025-05-25 23:33:05.349 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7127/swagger/index.html - 200 null text/html;charset=utf-8 1307.4363ms
+2025-05-25 23:33:05.670 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7127/_vs/browserLink - null null
+2025-05-25 23:33:05.670 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7127/_framework/aspnetcore-browser-refresh.js - null null
+2025-05-25 23:33:05.918 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7127/_framework/aspnetcore-browser-refresh.js - 200 16507 application/javascript; charset=utf-8 247.7733ms
+2025-05-25 23:33:06.102 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7127/_vs/browserLink - 200 null text/javascript; charset=UTF-8 432.0734ms
+2025-05-25 23:33:07.975 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7127/swagger/v1/swagger.json - null null
+2025-05-25 23:33:08.022 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7127/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 46.9511ms
+2025-05-25 23:33:17.564 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7127/api/Walks?pageNumber=1&pageSize=1000 - null null
+2025-05-25 23:33:17.663 +05:30 [INF] Executing endpoint 'NZWalks.API.Controllers.WalksController.GetAllWalks (NZWalks.API)'
+2025-05-25 23:33:17.701 +05:30 [INF] Route matched with {action = "GetAllWalks", controller = "Walks"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllWalks(System.String, System.String, System.String, System.Nullable`1[System.Boolean], Int32, Int32) on controller NZWalks.API.Controllers.WalksController (NZWalks.API).
+2025-05-25 23:33:18.011 +05:30 [INF] Executed action NZWalks.API.Controllers.WalksController.GetAllWalks (NZWalks.API) in 302.0438ms
+2025-05-25 23:33:18.014 +05:30 [INF] Executed endpoint 'NZWalks.API.Controllers.WalksController.GetAllWalks (NZWalks.API)'
+2025-05-25 23:33:18.053 +05:30 [ERR] 354a6b42-57f9-4c0d-83ba-acc986e0cdbe : test
+System.Exception: test
+   at NZWalks.API.Controllers.WalksController.GetAllWalks(String filterOn, String filterQuery, String sortBy, Nullable`1 isAscending, Int32 pageNumber, Int32 pageSize) in C:\Users\jawda\source\repos\NZWalks\NZWalks.API\Controllers\WalksController.cs:line 46
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at NZWalks.API.Middlewares.ExceptionHandlerMiddleware.InvokeAsync(HttpContext httpContext) in C:\Users\jawda\source\repos\NZWalks\NZWalks.API\Middlewares\ExceptionHandlerMiddleware.cs:line 19
+2025-05-25 23:33:18.139 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7127/api/Walks?pageNumber=1&pageSize=1000 - 400 null application/json; charset=utf-8 575.7626ms

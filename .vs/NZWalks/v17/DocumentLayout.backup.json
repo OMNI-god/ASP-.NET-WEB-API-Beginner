@@ -1,0 +1,822 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jawda\\source\\repos\\NZWalks\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE4A0E3-A45F-4ABD-9AEC-62304E1C7DB0}|NZWalks.UI\\NZWalks.UI.csproj|c:\\users\\jawda\\source\\repos\\nzwalks\\nzwalks.ui\\controllers\\regioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFE4A0E3-A45F-4ABD-9AEC-62304E1C7DB0}|NZWalks.UI\\NZWalks.UI.csproj|solutionrelative:nzwalks.ui\\controllers\\regioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA6C1BEA-4D28-466E-A62F-7FF6EDE7F2C9}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\jawda\\source\\repos\\nzwalks\\nzwalks.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BA6C1BEA-4D28-466E-A62F-7FF6EDE7F2C9}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE4A0E3-A45F-4ABD-9AEC-62304E1C7DB0}|NZWalks.UI\\NZWalks.UI.csproj|c:\\users\\jawda\\source\\repos\\nzwalks\\nzwalks.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFE4A0E3-A45F-4ABD-9AEC-62304E1C7DB0}|NZWalks.UI\\NZWalks.UI.csproj|solutionrelative:nzwalks.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE4A0E3-A45F-4ABD-9AEC-62304E1C7DB0}|NZWalks.UI\\NZWalks.UI.csproj|c:\\users\\jawda\\source\\repos\\nzwalks\\nzwalks.ui\\views\\region\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EFE4A0E3-A45F-4ABD-9AEC-62304E1C7DB0}|NZWalks.UI\\NZWalks.UI.csproj|solutionrelative:nzwalks.ui\\views\\region\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE4A0E3-A45F-4ABD-9AEC-62304E1C7DB0}|NZWalks.UI\\NZWalks.UI.csproj|c:\\users\\jawda\\source\\repos\\nzwalks\\nzwalks.ui\\nzwalks.ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EFE4A0E3-A45F-4ABD-9AEC-62304E1C7DB0}|NZWalks.UI\\NZWalks.UI.csproj|solutionrelative:nzwalks.ui\\nzwalks.ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA6C1BEA-4D28-466E-A62F-7FF6EDE7F2C9}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\jawda\\source\\repos\\nzwalks\\nzwalks.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA6C1BEA-4D28-466E-A62F-7FF6EDE7F2C9}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA6C1BEA-4D28-466E-A62F-7FF6EDE7F2C9}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\jawda\\source\\repos\\nzwalks\\nzwalks.api\\logs\\nzwalks_log20250525.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BA6C1BEA-4D28-466E-A62F-7FF6EDE7F2C9}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\logs\\nzwalks_log20250525.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA6C1BEA-4D28-466E-A62F-7FF6EDE7F2C9}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\jawda\\source\\repos\\nzwalks\\nzwalks.api\\mappings\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA6C1BEA-4D28-466E-A62F-7FF6EDE7F2C9}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\mappings\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA6C1BEA-4D28-466E-A62F-7FF6EDE7F2C9}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\jawda\\source\\repos\\nzwalks\\nzwalks.api\\controllers\\walkscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA6C1BEA-4D28-466E-A62F-7FF6EDE7F2C9}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\controllers\\walkscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA6C1BEA-4D28-466E-A62F-7FF6EDE7F2C9}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\jawda\\source\\repos\\nzwalks\\nzwalks.api\\controllers\\regionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA6C1BEA-4D28-466E-A62F-7FF6EDE7F2C9}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\controllers\\regionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA6C1BEA-4D28-466E-A62F-7FF6EDE7F2C9}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\jawda\\source\\repos\\nzwalks\\nzwalks.api\\middlewares\\exceptionhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA6C1BEA-4D28-466E-A62F-7FF6EDE7F2C9}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\middlewares\\exceptionhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA6C1BEA-4D28-466E-A62F-7FF6EDE7F2C9}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\jawda\\source\\repos\\nzwalks\\nzwalks.api\\repositories\\iimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA6C1BEA-4D28-466E-A62F-7FF6EDE7F2C9}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\repositories\\iimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA6C1BEA-4D28-466E-A62F-7FF6EDE7F2C9}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\jawda\\source\\repos\\nzwalks\\nzwalks.api\\nzwalks.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BA6C1BEA-4D28-466E-A62F-7FF6EDE7F2C9}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\nzwalks.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA6C1BEA-4D28-466E-A62F-7FF6EDE7F2C9}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\jawda\\source\\repos\\nzwalks\\nzwalks.api\\repositories\\localimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA6C1BEA-4D28-466E-A62F-7FF6EDE7F2C9}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\repositories\\localimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA6C1BEA-4D28-466E-A62F-7FF6EDE7F2C9}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\jawda\\source\\repos\\nzwalks\\nzwalks.api\\models\\dto\\imageuploadrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA6C1BEA-4D28-466E-A62F-7FF6EDE7F2C9}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\models\\dto\\imageuploadrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA6C1BEA-4D28-466E-A62F-7FF6EDE7F2C9}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\jawda\\source\\repos\\nzwalks\\nzwalks.api\\controllers\\imagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA6C1BEA-4D28-466E-A62F-7FF6EDE7F2C9}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\controllers\\imagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA6C1BEA-4D28-466E-A62F-7FF6EDE7F2C9}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\jawda\\source\\repos\\nzwalks\\nzwalks.api\\images\\.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{BA6C1BEA-4D28-466E-A62F-7FF6EDE7F2C9}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\images\\.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA6C1BEA-4D28-466E-A62F-7FF6EDE7F2C9}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\jawda\\source\\repos\\nzwalks\\nzwalks.api\\migrations\\20250519153451_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA6C1BEA-4D28-466E-A62F-7FF6EDE7F2C9}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\migrations\\20250519153451_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA6C1BEA-4D28-466E-A62F-7FF6EDE7F2C9}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\jawda\\source\\repos\\nzwalks\\nzwalks.api\\repositories\\sqlregionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA6C1BEA-4D28-466E-A62F-7FF6EDE7F2C9}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\repositories\\sqlregionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA6C1BEA-4D28-466E-A62F-7FF6EDE7F2C9}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\jawda\\source\\repos\\nzwalks\\nzwalks.api\\repositories\\sqlwalkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA6C1BEA-4D28-466E-A62F-7FF6EDE7F2C9}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\repositories\\sqlwalkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA6C1BEA-4D28-466E-A62F-7FF6EDE7F2C9}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\jawda\\source\\repos\\nzwalks\\nzwalks.api\\repositories\\tokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA6C1BEA-4D28-466E-A62F-7FF6EDE7F2C9}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\repositories\\tokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA6C1BEA-4D28-466E-A62F-7FF6EDE7F2C9}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\jawda\\source\\repos\\nzwalks\\nzwalks.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA6C1BEA-4D28-466E-A62F-7FF6EDE7F2C9}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jawda\\source\\repos\\NZWalks\\NZWalks.API\\Migrations\\20250525104313_added images table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NZWalks.API\\Migrations\\20250525104313_added images table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA6C1BEA-4D28-466E-A62F-7FF6EDE7F2C9}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\jawda\\source\\repos\\nzwalks\\nzwalks.api\\data\\nzwalksdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA6C1BEA-4D28-466E-A62F-7FF6EDE7F2C9}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\data\\nzwalksdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA6C1BEA-4D28-466E-A62F-7FF6EDE7F2C9}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\jawda\\source\\repos\\nzwalks\\nzwalks.api\\models\\domain\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA6C1BEA-4D28-466E-A62F-7FF6EDE7F2C9}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\models\\domain\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA6C1BEA-4D28-466E-A62F-7FF6EDE7F2C9}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\jawda\\source\\repos\\nzwalks\\nzwalks.api\\customactionfilters\\roleaccessattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA6C1BEA-4D28-466E-A62F-7FF6EDE7F2C9}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\customactionfilters\\roleaccessattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA6C1BEA-4D28-466E-A62F-7FF6EDE7F2C9}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\jawda\\source\\repos\\nzwalks\\nzwalks.api\\data\\nzwalksauthdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA6C1BEA-4D28-466E-A62F-7FF6EDE7F2C9}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\data\\nzwalksauthdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA6C1BEA-4D28-466E-A62F-7FF6EDE7F2C9}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\jawda\\source\\repos\\nzwalks\\nzwalks.api\\customactionfilters\\validatemodelattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA6C1BEA-4D28-466E-A62F-7FF6EDE7F2C9}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\customactionfilters\\validatemodelattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA6C1BEA-4D28-466E-A62F-7FF6EDE7F2C9}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\jawda\\source\\repos\\nzwalks\\nzwalks.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BA6C1BEA-4D28-466E-A62F-7FF6EDE7F2C9}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA6C1BEA-4D28-466E-A62F-7FF6EDE7F2C9}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\jawda\\source\\repos\\nzwalks\\nzwalks.api\\models\\dto\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA6C1BEA-4D28-466E-A62F-7FF6EDE7F2C9}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\models\\dto\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA6C1BEA-4D28-466E-A62F-7FF6EDE7F2C9}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\jawda\\source\\repos\\nzwalks\\nzwalks.api\\repositories\\itokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA6C1BEA-4D28-466E-A62F-7FF6EDE7F2C9}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\repositories\\itokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA6C1BEA-4D28-466E-A62F-7FF6EDE7F2C9}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\jawda\\source\\repos\\nzwalks\\nzwalks.api\\models\\dto\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA6C1BEA-4D28-466E-A62F-7FF6EDE7F2C9}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\models\\dto\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA6C1BEA-4D28-466E-A62F-7FF6EDE7F2C9}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\jawda\\source\\repos\\nzwalks\\nzwalks.api\\models\\dto\\registerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA6C1BEA-4D28-466E-A62F-7FF6EDE7F2C9}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\models\\dto\\registerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jawda\\source\\repos\\NZWalks\\NZWalks.API\\Migrations\\NZWalksAuthDb\\20250522203316_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NZWalks.API\\Migrations\\NZWalksAuthDb\\20250522203316_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA6C1BEA-4D28-466E-A62F-7FF6EDE7F2C9}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\jawda\\source\\repos\\nzwalks\\nzwalks.api\\repositories\\iwalkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA6C1BEA-4D28-466E-A62F-7FF6EDE7F2C9}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\repositories\\iwalkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA6C1BEA-4D28-466E-A62F-7FF6EDE7F2C9}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\jawda\\source\\repos\\nzwalks\\nzwalks.api\\repositories\\iregionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA6C1BEA-4D28-466E-A62F-7FF6EDE7F2C9}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\repositories\\iregionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA6C1BEA-4D28-466E-A62F-7FF6EDE7F2C9}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\jawda\\source\\repos\\nzwalks\\nzwalks.api\\models\\domain\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA6C1BEA-4D28-466E-A62F-7FF6EDE7F2C9}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\models\\domain\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA6C1BEA-4D28-466E-A62F-7FF6EDE7F2C9}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\jawda\\source\\repos\\nzwalks\\nzwalks.api\\models\\dto\\updatewalkrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA6C1BEA-4D28-466E-A62F-7FF6EDE7F2C9}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\models\\dto\\updatewalkrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA6C1BEA-4D28-466E-A62F-7FF6EDE7F2C9}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\jawda\\source\\repos\\nzwalks\\nzwalks.api\\models\\dto\\addwalkrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA6C1BEA-4D28-466E-A62F-7FF6EDE7F2C9}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\models\\dto\\addwalkrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA6C1BEA-4D28-466E-A62F-7FF6EDE7F2C9}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\jawda\\source\\repos\\nzwalks\\nzwalks.api\\models\\dto\\updateregionrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA6C1BEA-4D28-466E-A62F-7FF6EDE7F2C9}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\models\\dto\\updateregionrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA6C1BEA-4D28-466E-A62F-7FF6EDE7F2C9}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\jawda\\source\\repos\\nzwalks\\nzwalks.api\\models\\dto\\addregionrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA6C1BEA-4D28-466E-A62F-7FF6EDE7F2C9}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\models\\dto\\addregionrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA6C1BEA-4D28-466E-A62F-7FF6EDE7F2C9}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\jawda\\source\\repos\\nzwalks\\nzwalks.api\\models\\domain\\difficulty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA6C1BEA-4D28-466E-A62F-7FF6EDE7F2C9}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\models\\domain\\difficulty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA6C1BEA-4D28-466E-A62F-7FF6EDE7F2C9}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\jawda\\source\\repos\\nzwalks\\nzwalks.api\\models\\domain\\walk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA6C1BEA-4D28-466E-A62F-7FF6EDE7F2C9}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\models\\domain\\walk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA6C1BEA-4D28-466E-A62F-7FF6EDE7F2C9}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\jawda\\source\\repos\\nzwalks\\nzwalks.api\\models\\dto\\walkdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA6C1BEA-4D28-466E-A62F-7FF6EDE7F2C9}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\models\\dto\\walkdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA6C1BEA-4D28-466E-A62F-7FF6EDE7F2C9}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\jawda\\source\\repos\\nzwalks\\nzwalks.api\\models\\dto\\regiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA6C1BEA-4D28-466E-A62F-7FF6EDE7F2C9}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\models\\dto\\regiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA6C1BEA-4D28-466E-A62F-7FF6EDE7F2C9}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\jawda\\source\\repos\\nzwalks\\nzwalks.api\\models\\dto\\difficultydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA6C1BEA-4D28-466E-A62F-7FF6EDE7F2C9}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\models\\dto\\difficultydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA6C1BEA-4D28-466E-A62F-7FF6EDE7F2C9}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\jawda\\source\\repos\\nzwalks\\nzwalks.api\\nzwalks.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{BA6C1BEA-4D28-466E-A62F-7FF6EDE7F2C9}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\nzwalks.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jawda\\source\\repos\\NZWalks\\NZWalks.UI\\Program.cs",
+              "RelativeDocumentMoniker": "NZWalks.UI\\Program.cs",
+              "ToolTip": "C:\\Users\\jawda\\source\\repos\\NZWalks\\NZWalks.UI\\Program.cs*",
+              "RelativeToolTip": "NZWalks.UI\\Program.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T15:22:00.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jawda\\source\\repos\\NZWalks\\NZWalks.UI\\Views\\Region\\Index.cshtml",
+              "RelativeDocumentMoniker": "NZWalks.UI\\Views\\Region\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jawda\\source\\repos\\NZWalks\\NZWalks.UI\\Views\\Region\\Index.cshtml",
+              "RelativeToolTip": "NZWalks.UI\\Views\\Region\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-26T15:20:42.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegionController.cs",
+              "DocumentMoniker": "C:\\Users\\jawda\\source\\repos\\NZWalks\\NZWalks.UI\\Controllers\\RegionController.cs",
+              "RelativeDocumentMoniker": "NZWalks.UI\\Controllers\\RegionController.cs",
+              "ToolTip": "C:\\Users\\jawda\\source\\repos\\NZWalks\\NZWalks.UI\\Controllers\\RegionController.cs*",
+              "RelativeToolTip": "NZWalks.UI\\Controllers\\RegionController.cs*",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA5wBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T15:20:20.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NZWalks.UI",
+              "DocumentMoniker": "C:\\Users\\jawda\\source\\repos\\NZWalks\\NZWalks.UI\\NZWalks.UI.csproj",
+              "RelativeDocumentMoniker": "NZWalks.UI\\NZWalks.UI.csproj",
+              "ToolTip": "C:\\Users\\jawda\\source\\repos\\NZWalks\\NZWalks.UI\\NZWalks.UI.csproj*",
+              "RelativeToolTip": "NZWalks.UI\\NZWalks.UI.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-25T19:54:21.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NZWalks_Log20250525.txt",
+              "DocumentMoniker": "C:\\Users\\jawda\\source\\repos\\NZWalks\\NZWalks.API\\Logs\\NZWalks_Log20250525.txt",
+              "RelativeDocumentMoniker": "NZWalks.API\\Logs\\NZWalks_Log20250525.txt",
+              "ToolTip": "C:\\Users\\jawda\\source\\repos\\NZWalks\\NZWalks.API\\Logs\\NZWalks_Log20250525.txt",
+              "RelativeToolTip": "NZWalks.API\\Logs\\NZWalks_Log20250525.txt",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-25T18:04:57.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ExceptionHandlerMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\jawda\\source\\repos\\NZWalks\\NZWalks.API\\Middlewares\\ExceptionHandlerMiddleware.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Middlewares\\ExceptionHandlerMiddleware.cs",
+              "ToolTip": "C:\\Users\\jawda\\source\\repos\\NZWalks\\NZWalks.API\\Middlewares\\ExceptionHandlerMiddleware.cs",
+              "RelativeToolTip": "NZWalks.API\\Middlewares\\ExceptionHandlerMiddleware.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAowCAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T16:27:33.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": ".jpg",
+              "DocumentMoniker": "C:\\Users\\jawda\\source\\repos\\NZWalks\\NZWalks.API\\Images\\.jpg",
+              "RelativeDocumentMoniker": "NZWalks.API\\Images\\.jpg",
+              "ToolTip": "C:\\Users\\jawda\\source\\repos\\NZWalks\\NZWalks.API\\Images\\.jpg",
+              "RelativeToolTip": "NZWalks.API\\Images\\.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-05-25T15:03:00.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LocalImageRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jawda\\source\\repos\\NZWalks\\NZWalks.API\\Repositories\\LocalImageRepository.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Repositories\\LocalImageRepository.cs",
+              "ToolTip": "C:\\Users\\jawda\\source\\repos\\NZWalks\\NZWalks.API\\Repositories\\LocalImageRepository.cs",
+              "RelativeToolTip": "NZWalks.API\\Repositories\\LocalImageRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T13:14:47.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IImageRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jawda\\source\\repos\\NZWalks\\NZWalks.API\\Repositories\\IImageRepository.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Repositories\\IImageRepository.cs",
+              "ToolTip": "C:\\Users\\jawda\\source\\repos\\NZWalks\\NZWalks.API\\Repositories\\IImageRepository.cs",
+              "RelativeToolTip": "NZWalks.API\\Repositories\\IImageRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T13:13:50.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ImageUploadRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\jawda\\source\\repos\\NZWalks\\NZWalks.API\\Models\\DTO\\ImageUploadRequestDTO.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Models\\DTO\\ImageUploadRequestDTO.cs",
+              "ToolTip": "C:\\Users\\jawda\\source\\repos\\NZWalks\\NZWalks.API\\Models\\DTO\\ImageUploadRequestDTO.cs",
+              "RelativeToolTip": "NZWalks.API\\Models\\DTO\\ImageUploadRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T10:45:51.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ImagesController.cs",
+              "DocumentMoniker": "C:\\Users\\jawda\\source\\repos\\NZWalks\\NZWalks.API\\Controllers\\ImagesController.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Controllers\\ImagesController.cs",
+              "ToolTip": "C:\\Users\\jawda\\source\\repos\\NZWalks\\NZWalks.API\\Controllers\\ImagesController.cs",
+              "RelativeToolTip": "NZWalks.API\\Controllers\\ImagesController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T10:44:23.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20250525104313_added images table.cs",
+              "DocumentMoniker": "C:\\Users\\jawda\\source\\repos\\NZWalks\\NZWalks.API\\Migrations\\20250525104313_added images table.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Migrations\\20250525104313_added images table.cs",
+              "ToolTip": "C:\\Users\\jawda\\source\\repos\\NZWalks\\NZWalks.API\\Migrations\\20250525104313_added images table.cs",
+              "RelativeToolTip": "NZWalks.API\\Migrations\\20250525104313_added images table.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA6wBIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T10:43:13.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Image.cs",
+              "DocumentMoniker": "C:\\Users\\jawda\\source\\repos\\NZWalks\\NZWalks.API\\Models\\Domain\\Image.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Models\\Domain\\Image.cs",
+              "ToolTip": "C:\\Users\\jawda\\source\\repos\\NZWalks\\NZWalks.API\\Models\\Domain\\Image.cs",
+              "RelativeToolTip": "NZWalks.API\\Models\\Domain\\Image.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T10:39:04.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "RoleAccessAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\jawda\\source\\repos\\NZWalks\\NZWalks.API\\CustomActionFilters\\RoleAccessAttribute.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\CustomActionFilters\\RoleAccessAttribute.cs",
+              "ToolTip": "C:\\Users\\jawda\\source\\repos\\NZWalks\\NZWalks.API\\CustomActionFilters\\RoleAccessAttribute.cs",
+              "RelativeToolTip": "NZWalks.API\\CustomActionFilters\\RoleAccessAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T23:19:59.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "LoginResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\jawda\\source\\repos\\NZWalks\\NZWalks.API\\Models\\DTO\\LoginResponseDTO.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Models\\DTO\\LoginResponseDTO.cs",
+              "ToolTip": "C:\\Users\\jawda\\source\\repos\\NZWalks\\NZWalks.API\\Models\\DTO\\LoginResponseDTO.cs",
+              "RelativeToolTip": "NZWalks.API\\Models\\DTO\\LoginResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T21:24:46.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TokenRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jawda\\source\\repos\\NZWalks\\NZWalks.API\\Repositories\\TokenRepository.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Repositories\\TokenRepository.cs",
+              "ToolTip": "C:\\Users\\jawda\\source\\repos\\NZWalks\\NZWalks.API\\Repositories\\TokenRepository.cs",
+              "RelativeToolTip": "NZWalks.API\\Repositories\\TokenRepository.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAxwBAAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T21:08:53.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ITokenRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jawda\\source\\repos\\NZWalks\\NZWalks.API\\Repositories\\ITokenRepository.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Repositories\\ITokenRepository.cs",
+              "ToolTip": "C:\\Users\\jawda\\source\\repos\\NZWalks\\NZWalks.API\\Repositories\\ITokenRepository.cs",
+              "RelativeToolTip": "NZWalks.API\\Repositories\\ITokenRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T20:52:40.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "LoginRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\jawda\\source\\repos\\NZWalks\\NZWalks.API\\Models\\DTO\\LoginRequestDTO.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Models\\DTO\\LoginRequestDTO.cs",
+              "ToolTip": "C:\\Users\\jawda\\source\\repos\\NZWalks\\NZWalks.API\\Models\\DTO\\LoginRequestDTO.cs",
+              "RelativeToolTip": "NZWalks.API\\Models\\DTO\\LoginRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T20:44:09.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "RegisterRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\jawda\\source\\repos\\NZWalks\\NZWalks.API\\Models\\DTO\\RegisterRequestDTO.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Models\\DTO\\RegisterRequestDTO.cs",
+              "ToolTip": "C:\\Users\\jawda\\source\\repos\\NZWalks\\NZWalks.API\\Models\\DTO\\RegisterRequestDTO.cs",
+              "RelativeToolTip": "NZWalks.API\\Models\\DTO\\RegisterRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T18:24:30.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\jawda\\source\\repos\\NZWalks\\NZWalks.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\jawda\\source\\repos\\NZWalks\\NZWalks.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "NZWalks.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwDoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T18:23:31.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20250522203316_init.cs",
+              "DocumentMoniker": "C:\\Users\\jawda\\source\\repos\\NZWalks\\NZWalks.API\\Migrations\\NZWalksAuthDb\\20250522203316_init.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Migrations\\NZWalksAuthDb\\20250522203316_init.cs",
+              "ToolTip": "C:\\Users\\jawda\\source\\repos\\NZWalks\\NZWalks.API\\Migrations\\NZWalksAuthDb\\20250522203316_init.cs",
+              "RelativeToolTip": "NZWalks.API\\Migrations\\NZWalksAuthDb\\20250522203316_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T20:33:17.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "NZWalksAuthDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\jawda\\source\\repos\\NZWalks\\NZWalks.API\\Data\\NZWalksAuthDbContext.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Data\\NZWalksAuthDbContext.cs",
+              "ToolTip": "C:\\Users\\jawda\\source\\repos\\NZWalks\\NZWalks.API\\Data\\NZWalksAuthDbContext.cs",
+              "RelativeToolTip": "NZWalks.API\\Data\\NZWalksAuthDbContext.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T16:16:10.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\jawda\\source\\repos\\NZWalks\\NZWalks.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "NZWalks.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\jawda\\source\\repos\\NZWalks\\NZWalks.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "NZWalks.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABUAAAAAAAAAAAAcwBoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-22T15:46:49.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ValidateModelAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\jawda\\source\\repos\\NZWalks\\NZWalks.API\\CustomActionFilters\\ValidateModelAttribute.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\CustomActionFilters\\ValidateModelAttribute.cs",
+              "ToolTip": "C:\\Users\\jawda\\source\\repos\\NZWalks\\NZWalks.API\\CustomActionFilters\\ValidateModelAttribute.cs",
+              "RelativeToolTip": "NZWalks.API\\CustomActionFilters\\ValidateModelAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T19:25:18.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "UpdateWalkRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\jawda\\source\\repos\\NZWalks\\NZWalks.API\\Models\\DTO\\UpdateWalkRequestDTO.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Models\\DTO\\UpdateWalkRequestDTO.cs",
+              "ToolTip": "C:\\Users\\jawda\\source\\repos\\NZWalks\\NZWalks.API\\Models\\DTO\\UpdateWalkRequestDTO.cs",
+              "RelativeToolTip": "NZWalks.API\\Models\\DTO\\UpdateWalkRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T15:42:46.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "DifficultyDTO.cs",
+              "DocumentMoniker": "C:\\Users\\jawda\\source\\repos\\NZWalks\\NZWalks.API\\Models\\DTO\\DifficultyDTO.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Models\\DTO\\DifficultyDTO.cs",
+              "ToolTip": "C:\\Users\\jawda\\source\\repos\\NZWalks\\NZWalks.API\\Models\\DTO\\DifficultyDTO.cs",
+              "RelativeToolTip": "NZWalks.API\\Models\\DTO\\DifficultyDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T14:46:06.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "WalkDTO.cs",
+              "DocumentMoniker": "C:\\Users\\jawda\\source\\repos\\NZWalks\\NZWalks.API\\Models\\DTO\\WalkDTO.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Models\\DTO\\WalkDTO.cs",
+              "ToolTip": "C:\\Users\\jawda\\source\\repos\\NZWalks\\NZWalks.API\\Models\\DTO\\WalkDTO.cs",
+              "RelativeToolTip": "NZWalks.API\\Models\\DTO\\WalkDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T14:46:06.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SQLWalkRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jawda\\source\\repos\\NZWalks\\NZWalks.API\\Repositories\\SQLWalkRepository.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Repositories\\SQLWalkRepository.cs",
+              "ToolTip": "C:\\Users\\jawda\\source\\repos\\NZWalks\\NZWalks.API\\Repositories\\SQLWalkRepository.cs",
+              "RelativeToolTip": "NZWalks.API\\Repositories\\SQLWalkRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T14:46:06.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IWalkRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jawda\\source\\repos\\NZWalks\\NZWalks.API\\Repositories\\IWalkRepository.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Repositories\\IWalkRepository.cs",
+              "ToolTip": "C:\\Users\\jawda\\source\\repos\\NZWalks\\NZWalks.API\\Repositories\\IWalkRepository.cs",
+              "RelativeToolTip": "NZWalks.API\\Repositories\\IWalkRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T14:46:06.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WalksController.cs",
+              "DocumentMoniker": "C:\\Users\\jawda\\source\\repos\\NZWalks\\NZWalks.API\\Controllers\\WalksController.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Controllers\\WalksController.cs",
+              "ToolTip": "C:\\Users\\jawda\\source\\repos\\NZWalks\\NZWalks.API\\Controllers\\WalksController.cs",
+              "RelativeToolTip": "NZWalks.API\\Controllers\\WalksController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwC0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T14:46:06.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "AddWalkRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\jawda\\source\\repos\\NZWalks\\NZWalks.API\\Models\\DTO\\AddWalkRequestDTO.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Models\\DTO\\AddWalkRequestDTO.cs",
+              "ToolTip": "C:\\Users\\jawda\\source\\repos\\NZWalks\\NZWalks.API\\Models\\DTO\\AddWalkRequestDTO.cs",
+              "RelativeToolTip": "NZWalks.API\\Models\\DTO\\AddWalkRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T14:46:01.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "UpdateRegionRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\jawda\\source\\repos\\NZWalks\\NZWalks.API\\Models\\DTO\\UpdateRegionRequestDTO.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Models\\DTO\\UpdateRegionRequestDTO.cs",
+              "ToolTip": "C:\\Users\\jawda\\source\\repos\\NZWalks\\NZWalks.API\\Models\\DTO\\UpdateRegionRequestDTO.cs",
+              "RelativeToolTip": "NZWalks.API\\Models\\DTO\\UpdateRegionRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T20:44:44.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "AddRegionRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\jawda\\source\\repos\\NZWalks\\NZWalks.API\\Models\\DTO\\AddRegionRequestDTO.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Models\\DTO\\AddRegionRequestDTO.cs",
+              "ToolTip": "C:\\Users\\jawda\\source\\repos\\NZWalks\\NZWalks.API\\Models\\DTO\\AddRegionRequestDTO.cs",
+              "RelativeToolTip": "NZWalks.API\\Models\\DTO\\AddRegionRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T17:12:37.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AutoMapperProfiles.cs",
+              "DocumentMoniker": "C:\\Users\\jawda\\source\\repos\\NZWalks\\NZWalks.API\\Mappings\\AutoMapperProfiles.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Mappings\\AutoMapperProfiles.cs",
+              "ToolTip": "C:\\Users\\jawda\\source\\repos\\NZWalks\\NZWalks.API\\Mappings\\AutoMapperProfiles.cs",
+              "RelativeToolTip": "NZWalks.API\\Mappings\\AutoMapperProfiles.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBMAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T16:24:29.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SQLRegionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jawda\\source\\repos\\NZWalks\\NZWalks.API\\Repositories\\SQLRegionRepository.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Repositories\\SQLRegionRepository.cs",
+              "ToolTip": "C:\\Users\\jawda\\source\\repos\\NZWalks\\NZWalks.API\\Repositories\\SQLRegionRepository.cs",
+              "RelativeToolTip": "NZWalks.API\\Repositories\\SQLRegionRepository.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwCMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T16:07:09.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IRegionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jawda\\source\\repos\\NZWalks\\NZWalks.API\\Repositories\\IRegionRepository.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Repositories\\IRegionRepository.cs",
+              "ToolTip": "C:\\Users\\jawda\\source\\repos\\NZWalks\\NZWalks.API\\Repositories\\IRegionRepository.cs",
+              "RelativeToolTip": "NZWalks.API\\Repositories\\IRegionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T16:06:17.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NZWalks.API.csproj",
+              "DocumentMoniker": "C:\\Users\\jawda\\source\\repos\\NZWalks\\NZWalks.API\\NZWalks.API.csproj",
+              "RelativeDocumentMoniker": "NZWalks.API\\NZWalks.API.csproj",
+              "ToolTip": "C:\\Users\\jawda\\source\\repos\\NZWalks\\NZWalks.API\\NZWalks.API.csproj",
+              "RelativeToolTip": "NZWalks.API\\NZWalks.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-19T15:58:46.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "RegionDTO.cs",
+              "DocumentMoniker": "C:\\Users\\jawda\\source\\repos\\NZWalks\\NZWalks.API\\Models\\DTO\\RegionDTO.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Models\\DTO\\RegionDTO.cs",
+              "ToolTip": "C:\\Users\\jawda\\source\\repos\\NZWalks\\NZWalks.API\\Models\\DTO\\RegionDTO.cs",
+              "RelativeToolTip": "NZWalks.API\\Models\\DTO\\RegionDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T15:57:38.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RegionsController.cs",
+              "DocumentMoniker": "C:\\Users\\jawda\\source\\repos\\NZWalks\\NZWalks.API\\Controllers\\RegionsController.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Controllers\\RegionsController.cs",
+              "ToolTip": "C:\\Users\\jawda\\source\\repos\\NZWalks\\NZWalks.API\\Controllers\\RegionsController.cs",
+              "RelativeToolTip": "NZWalks.API\\Controllers\\RegionsController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAADwvyMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T15:37:29.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20250519153451_init.cs",
+              "DocumentMoniker": "C:\\Users\\jawda\\source\\repos\\NZWalks\\NZWalks.API\\Migrations\\20250519153451_init.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Migrations\\20250519153451_init.cs",
+              "ToolTip": "C:\\Users\\jawda\\source\\repos\\NZWalks\\NZWalks.API\\Migrations\\20250519153451_init.cs",
+              "RelativeToolTip": "NZWalks.API\\Migrations\\20250519153451_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T15:34:51.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jawda\\source\\repos\\NZWalks\\NZWalks.API\\Program.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Program.cs",
+              "ToolTip": "C:\\Users\\jawda\\source\\repos\\NZWalks\\NZWalks.API\\Program.cs",
+              "RelativeToolTip": "NZWalks.API\\Program.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAAABEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T14:47:23.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\jawda\\source\\repos\\NZWalks\\NZWalks.API\\appsettings.json",
+              "RelativeDocumentMoniker": "NZWalks.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\jawda\\source\\repos\\NZWalks\\NZWalks.API\\appsettings.json",
+              "RelativeToolTip": "NZWalks.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-19T15:10:23.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "NZWalks.API.http",
+              "DocumentMoniker": "C:\\Users\\jawda\\source\\repos\\NZWalks\\NZWalks.API\\NZWalks.API.http",
+              "RelativeDocumentMoniker": "NZWalks.API\\NZWalks.API.http",
+              "ToolTip": "C:\\Users\\jawda\\source\\repos\\NZWalks\\NZWalks.API\\NZWalks.API.http",
+              "RelativeToolTip": "NZWalks.API\\NZWalks.API.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-05-19T14:47:24.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "NZWalksDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\jawda\\source\\repos\\NZWalks\\NZWalks.API\\Data\\NZWalksDbContext.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Data\\NZWalksDbContext.cs",
+              "ToolTip": "C:\\Users\\jawda\\source\\repos\\NZWalks\\NZWalks.API\\Data\\NZWalksDbContext.cs",
+              "RelativeToolTip": "NZWalks.API\\Data\\NZWalksDbContext.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwA8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T14:45:19.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Difficulty.cs",
+              "DocumentMoniker": "C:\\Users\\jawda\\source\\repos\\NZWalks\\NZWalks.API\\Models\\Domain\\Difficulty.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Models\\Domain\\Difficulty.cs",
+              "ToolTip": "C:\\Users\\jawda\\source\\repos\\NZWalks\\NZWalks.API\\Models\\Domain\\Difficulty.cs",
+              "RelativeToolTip": "NZWalks.API\\Models\\Domain\\Difficulty.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T14:38:34.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Region.cs",
+              "DocumentMoniker": "C:\\Users\\jawda\\source\\repos\\NZWalks\\NZWalks.API\\Models\\Domain\\Region.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Models\\Domain\\Region.cs",
+              "ToolTip": "C:\\Users\\jawda\\source\\repos\\NZWalks\\NZWalks.API\\Models\\Domain\\Region.cs",
+              "RelativeToolTip": "NZWalks.API\\Models\\Domain\\Region.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T14:38:20.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Walk.cs",
+              "DocumentMoniker": "C:\\Users\\jawda\\source\\repos\\NZWalks\\NZWalks.API\\Models\\Domain\\Walk.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Models\\Domain\\Walk.cs",
+              "ToolTip": "C:\\Users\\jawda\\source\\repos\\NZWalks\\NZWalks.API\\Models\\Domain\\Walk.cs",
+              "RelativeToolTip": "NZWalks.API\\Models\\Domain\\Walk.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T14:38:06.211Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
